@@ -1,0 +1,20 @@
+## *Material para Curso VW-INATEL*
+
+### PDFs
+[Abertura](https://github.com/rlrocha90/CursoVW/blob/806fff7790b10d1682b22e15776b9fdbf858210a/PDFs/00%20-%20Abertura.pdf)  
+
+[IA Avançado - Primeiro Encontro Online](https://github.com/rlrocha90/CursoVW/blob/5d1ccaad040fbcaf36a15d759db9c86af6b67401/PDFs/00%20-%20IA%20Avan%C3%A7ado%20-%20Introdu%C3%A7%C3%A3o.pdf)  
+
+[Análise Exploratória de Dados](https://github.com/rlrocha90/CursoVW/blob/e49e4098ba7bf3aa8be608d406a1d0207ae8a7ac/PDFs/01%20-%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados.pdf) 
+
+[Redes Neurais e Deep Learning](https://github.com/rlrocha90/CursoVW/blob/66dfc54c6b9ef5a6b19b0c436ea01a7ca749ebf7/PDFs/02%20-%20Redes%20Neurais%20e%20Deep%20Learning.pdf)
+
+[Fundamentos de Visão Computacional](https://github.com/rlrocha90/CursoVW/blob/479791ac5e7c0b83e5eac47175c9458161256c40/PDFs/03%20-%20Fundamentos%20de%20Vis%C3%A3o%20Computacional.pdf)
+
+[IA Generativa](https://github.com/rlrocha90/CursoVW/blob/34d94d70258a6e7d3e62eb1d3da94bd93f69b294/PDFs/04%20-%20IA%20Generativa.pdf)
+
+[Processamento de Imagens](https://github.com/rlrocha90/CursoVW/blob/fc627525c4981be4bace5feb44393e3bfb719949/PDFs/05%20-%20Processamento%20de%20Imagem.pdf)
+
+[Modelos com Imagens](https://github.com/rlrocha90/CursoVW/blob/0b6a72a0e8317280ecb9a6e11cae17fd73e0f561/PDFs/06%20-%20Modelos%20com%20Imagens.pdf)
+
+[Esteira de Implementação](https://github.com/rlrocha90/CursoVW/blob/0b6a72a0e8317280ecb9a6e11cae17fd73e0f561/PDFs/07%20-%20Esteira%20de%20implementa%C3%A7%C3%A3o_Produtiza%C3%A7%C3%A3o.pdf)
