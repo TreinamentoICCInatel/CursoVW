@@ -1,4 +1,6 @@
-## *Material para Curso VW-INATEL*
+## *Material exclusivo do Curso IA Avançado - VW-INATEL*
+
+![](https://github.com/TreinamentoICCInatel/CursoVW/blob/7d06511ffc24055a57b616cbd39a97293d9d1e3b/util/barraimagem.png)
 
 ### PDFs
 [Abertura](https://github.com/rlrocha90/CursoVW/blob/806fff7790b10d1682b22e15776b9fdbf858210a/PDFs/00%20-%20Abertura.pdf)  
@@ -18,3 +20,4 @@
 [Modelos com Imagens](https://github.com/rlrocha90/CursoVW/blob/0b6a72a0e8317280ecb9a6e11cae17fd73e0f561/PDFs/06%20-%20Modelos%20com%20Imagens.pdf)
 
 [Esteira de Implementação](https://github.com/rlrocha90/CursoVW/blob/0b6a72a0e8317280ecb9a6e11cae17fd73e0f561/PDFs/07%20-%20Esteira%20de%20implementa%C3%A7%C3%A3o_Produtiza%C3%A7%C3%A3o.pdf)
+
