@@ -4,7 +4,7 @@
 
 ### PDFs
 [Abertura - T4](https://github.com/rlrocha90/CursoVW/blob/806fff7790b10d1682b22e15776b9fdbf858210a/PDFs/00%20-%20Abertura.pdf)  
-[Abertura - T5(https://github.com/TreinamentoICCInatel/CursoVW/blob/ae51200fde4b51ea074059639dc8bf79bf139df7/PDFs/00%20-%20Abertura_T5_.pdf)
+[Abertura - T5](https://github.com/TreinamentoICCInatel/CursoVW/blob/ae51200fde4b51ea074059639dc8bf79bf139df7/PDFs/00%20-%20Abertura_T5_.pdf)
 
 [IA Avançado - Primeiro Encontro Online](https://github.com/rlrocha90/CursoVW/blob/5d1ccaad040fbcaf36a15d759db9c86af6b67401/PDFs/00%20-%20IA%20Avan%C3%A7ado%20-%20Introdu%C3%A7%C3%A3o.pdf)  
 
